@@ -1,7 +1,7 @@
 {
-    "name": "ShiraoriBOT-Md",
+    "name": "anfebn",
     "version": "0.4.5",
-    "description": "Simle Bot WhatsApp with Baileys Multi Device",
+    "description": "anfebn",
     "depecrated": false,
     "main": "index.js",
     "directories": {
@@ -20,19 +20,19 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "ShiraoriBOT",
+        "anfebn",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/ilmanhdyt/ShiraoriBOT-Md",
+    "homepage": "https://github.com/anfeb/rff",
     "author": {
-        "name": "Ilman"
+        "name": "anfebn"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ilmanhdyt/ShiraoriBOT-Md.git"
+        "url": "git+https://github.com/anfeb/rff.git"
     },
     "bugs": {
-        "url": "https://github.com/ilmanhdyt/ShiraoriBOT-Md/issues"
+        "url": "https://github.com/anfeb/rff/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
