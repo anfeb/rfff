@@ -28,7 +28,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-╭────ꕥ %me ꕥ────
+╭────ꕥ *anfebn* ꕥ────
 │✾ Version: %version
 │✾ Library: Baileys-MD
 │✾ Mode: ${global.opts['self'] ? 'Self' : 'publik'}
@@ -44,9 +44,9 @@ const defaultMenu = {
 │ ✾ Role: %role
 ╰❑
 ╭─❑ 「 INFORMASI 」 ❑──
-│ Bot ini masih tahap beta
-│ apabila ada bug/eror harap
-│ lapor ke owner
+│  *Follow Me*
+│  *@anfebn*
+│ 
 ╰❑
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
@@ -166,21 +166,21 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedFooterText: wm,
            hydratedButtons: [{
              urlButton: {
-               displayText: '💠 Source Code',
-               url: 'https://github.com/ilmanhdyt/ShiraoriBOT-Md'
+               displayText: '💠Follow Me',
+               url: 'https://instagram.com/anfebn'
              }
 
            },
              {
              callButton: {
-               displayText: 'Nomor Owner',
-               PhoneNumber: '0813-5104-7727'
+               displayText: 'No Owner',
+               PhoneNumber: '0877-7397-3791'
              }
 
            },
                {
              quickReplyButton: {
-               displayText: '🧒 Owner',
+               displayText: 'Owner',
                id: '.owner',
              }
 
@@ -194,8 +194,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            },
            {
              quickReplyButton: {
-               displayText: '📍 Credits',
-               id: '.tqto',
+               displayText: 'Ping',
+               id: '.ping',
              }
            }]
          }
