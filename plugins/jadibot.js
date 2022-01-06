@@ -1,4 +1,4 @@
-let { MessageType } = require('@adiwajshing/baileys')
+let { MessageType } = require('@adiwajshing/baileys-md')
 const { is } = require('cheerio/lib/api/traversing')
 let qrcode = require('qrcode')
 let fs = require('fs')
