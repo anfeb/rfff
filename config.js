@@ -32,7 +32,7 @@ global.packname = 'follow me'
 global.author = '@anfebn'
 
 global.wm = '@anfebn'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
+global.media = 'https://telegra.ph/file/a0e8d7b89d7344be882bc.jpg'
 
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
