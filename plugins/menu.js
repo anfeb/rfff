@@ -187,7 +187,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            },
                {
              quickReplyButton: {
-               displayText: '💲 Donasi',
+               displayText: 'Donasi',
                id: '.donasi',
              }
 
